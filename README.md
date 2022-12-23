@@ -1,4 +1,4 @@
-### Live On: [Netlify](https://typing-test-hari.netlify.app/)
+### Live On: [Netlify](https://speedtype-harsh.netlify.app/)
 ### Technologies Used:
 ReactJS
 
